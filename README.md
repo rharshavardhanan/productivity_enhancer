@@ -1,37 +1,8 @@
-🗂️ Productivity Manager
+# React + Vite
 
-A productivity management web app built with JSX that brings together everything you need to stay organized and focused.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-✨ Features
+Currently, two official plugins are available:
 
-📅 Calendar Integration – plan and manage your schedule.
-
-⏱️ Timer & Pomodoro Timer – boost focus with built-in timers.
-
-📓 Journal – write down daily notes, thoughts, or reflections.
-
-✅ Task Manager – create, edit, and organize tasks with widget-based management.
-
-🔑 Google Sign-In & Authentication – secure login with Google accounts.
-
-📊 Widgets Dashboard – customize and view your productivity tools in one place.
-
-🚀 Tech Stack
-
-Frontend: JSX, React (if applicable)
-
-Authentication: Google OAuth
-
-Other Tools: (add any database, backend, or libraries you’ve used)
-
-🎯 Purpose
-
-This app is designed to be an all-in-one productivity hub, combining essential tools like calendar, task management, journaling, and focus timers into a single platform.
-
-📌 Future Enhancements
-
-Dark mode / custom themes
-
-Notifications & reminders
-
-Analytics on productivity patterns
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
